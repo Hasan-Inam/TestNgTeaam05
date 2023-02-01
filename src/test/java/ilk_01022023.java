@@ -7,6 +7,10 @@ public class ilk_01022023 {
 
 
 
+
         System.out.println("Master ilk işlem");
+
+        System.out.println("Hasan ikinci işlem");
+
     }
 }
